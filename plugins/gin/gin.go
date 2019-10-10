@@ -22,9 +22,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/tetratelabs/go2sky"
-	"github.com/tetratelabs/go2sky/propagation"
-	"github.com/tetratelabs/go2sky/reporter/grpc/common"
+	"github.com/ainilili/go2sky"
+	"github.com/ainilili/go2sky/propagation"
+	"github.com/ainilili/go2sky/reporter/grpc/common"
 )
 
 const (

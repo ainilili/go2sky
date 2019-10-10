@@ -17,7 +17,7 @@ package go2sky
 import (
 	"time"
 
-	"github.com/tetratelabs/go2sky/reporter/grpc/common"
+	"github.com/ainilili/go2sky/reporter/grpc/common"
 )
 
 type NoopSpan struct {

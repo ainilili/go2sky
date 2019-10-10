@@ -19,8 +19,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/tetratelabs/go2sky"
-	"github.com/tetratelabs/go2sky/reporter"
+	"github.com/ainilili/go2sky"
+	"github.com/ainilili/go2sky/reporter"
 )
 
 func ExampleNewTracer() {

@@ -19,9 +19,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tetratelabs/go2sky"
-	"github.com/tetratelabs/go2sky/propagation"
-	"github.com/tetratelabs/go2sky/reporter/grpc/common"
+	"github.com/ainilili/go2sky"
+	"github.com/ainilili/go2sky/propagation"
+	"github.com/ainilili/go2sky/reporter/grpc/common"
 )
 
 const httpClientComponentID int32 = 2
